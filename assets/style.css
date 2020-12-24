@@ -89,7 +89,9 @@ main {
 }
 
 .profile .isi p{
-  text-align: justify;
+  display: flex;
+  justify-content: center;
+  text-align: center;
   width: 400px;
 }
 
