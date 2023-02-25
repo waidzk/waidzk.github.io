@@ -1,0 +1,37 @@
+.Theme {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.switch-theme {
+  // background-color: black;
+  padding: 10px;
+  position: absolute;
+  border-radius: 0 0 0 100px;
+  svg {
+    position: relative;
+    right: -5px;
+  }
+}
+
+//Dark Mode
+.Dark.Theme {
+  .switch-theme {
+    transition: 0.2s;
+    background-color: #fff;
+    svg {
+      fill: #090909;
+    }
+  }
+}
+
+//Light Mode
+.Light.Theme {
+  .switch-theme {
+    transition: 0.2s;
+    background-color: #090909;
+    svg {
+      fill: #fff;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.About {
+  padding: 10px 35px;
+
+  p {
+    text-align: justify;
+  }
+}
+
+.Light.About {
+  transition: 0.2s;
+  background-color: #fff;
+  p {
+    color: #000;
+  }
+}
+
+.Dark.About {
+  transition: 0.2s;
+  background-color: #090909;
+  p {
+    color: #fff;
+  }
+}

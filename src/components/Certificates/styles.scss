@@ -1,0 +1,28 @@
+.Certificates {
+    padding: 10px 35px;
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      padding: 5px 0;
+    }
+    .boxes {
+      padding-top: 10px;
+      display: flex;
+      .box {
+        width: 200px;
+        height: 150px;
+        background-color: #e4e4e4;
+      }
+    }
+  }
+  
+  .Light.Certificates {
+      transition: 0.2s;
+      color: #000;
+  }
+  
+  .Dark.Certificates {
+      transition: 0.2s;
+      color: #fafafa;
+      background-color: #090909;
+  }

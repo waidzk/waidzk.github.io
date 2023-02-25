@@ -1,0 +1,26 @@
+.Academy {
+  padding: 10px 35px;
+  h2 {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px 0;
+  }
+  .item {
+    padding-top: 10px;
+    h3 {
+      font-size: 16px;
+      font-weight: 600;
+    }
+  }
+}
+
+.Light.Academy {
+  transition: 0.2s;
+  color: #000;
+}
+
+.Dark.Academy {
+  transition: 0.2s;
+  color: #fafafa;
+  background-color: #090909;
+}

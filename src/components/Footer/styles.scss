@@ -1,0 +1,18 @@
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+
+.Light.Footer {
+  transition: 0.2s;
+  background-color: #F8F8F8;
+  color: #000;
+}
+
+.Dark.Footer {
+  transition: 0.2s;
+  color: #fafafa;
+  background-color: #171717;
+}

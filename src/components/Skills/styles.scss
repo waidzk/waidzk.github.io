@@ -1,0 +1,30 @@
+.Skills {
+    padding: 10px 35px;
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      padding: 5px 0;
+    }
+    .boxes {
+        padding-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        .box {
+            width: 105px;
+            margin: 2px;
+            height: 40px;
+            background-color: #e4e4e4;
+        }
+    }
+  }
+  
+  .Light.Skills {
+      transition: 0.2s;
+      color: #000;
+  }
+  
+  .Dark.Skills {
+      transition: 0.2s;
+      color: #fafafa;
+      background-color: #090909;
+  }
