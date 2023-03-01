@@ -9,9 +9,20 @@
     padding-top: 10px;
     display: flex;
     .box {
-      width: 150px;
-      height: 150px;
-      background-color: #e4e4e4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 160px;
+      height: auto;
+      padding: 5px;
+      border-radius: 5px;
+      border: 1px solid #c4c4c4;
+      a {
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 28px;
+        color: #000;
+      }
     }
   }
 }
@@ -25,4 +36,7 @@
   transition: 0.2s;
   color: #fafafa;
   background-color: #090909;
+  .box a {
+    color: #fafafa;
+  }
 }

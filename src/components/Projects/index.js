@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext } from "react";
 import { ThemeContext } from "../../App";
 import data from "../../data/projects.json"
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -8,10 +8,6 @@ import "./styles.scss";
 
 export default function Projects() {
   const { theme } = useContext(ThemeContext);
-
-  useEffect(() => {
-    console.log(data)
-  }, [])
   
   return (
     <div className={`Projects ${theme}`}>

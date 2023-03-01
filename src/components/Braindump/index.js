@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { ThemeContext } from "../../App";
+import data from "../../data/braindump.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -17,9 +18,13 @@ export default function Braindump() {
         spaceBetween={10}
         className="mySwiper boxes"
       >
-        <SwiperSlide className="box"></SwiperSlide>
-        <SwiperSlide className="box"></SwiperSlide>
-        <SwiperSlide className="box"></SwiperSlide>
+        {
+          data.map((article)=>(
+            <SwiperSlide className="box">
+              <a href={article.url}>{article.title}</a>
+            </SwiperSlide>
+          ))
+        }
       </Swiper>
     </div>
   );

@@ -60,6 +60,9 @@
   }
   .contact-box {
     border: 2px solid #000;
+    svg {
+      color : #000;
+    }
   }
 }
 
@@ -75,5 +78,8 @@
   }
   .contact-box {
     border: 2px solid #fff;
+    svg {
+      color : #fff;
+    }
   }
 }

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "HTML5",
+    "img_url": "./images/icons/html.svg"
+  },
+  {
+    "id": "2",
+    "title": "CSS3",
+    "img_url": "./images/icons/css3.svg"
+  },
+  {
+    "id": "3",
+    "title": "Javascript",
+    "img_url": "./images/icons/javascript.svg"
+  },
+  {
+    "id": "4",
+    "title": "Node.js",
+    "img_url": "./images/icons/nodejs.svg"
+  },
+  {
+    "id": "5",
+    "title": "React.js",
+    "img_url": "./images/icons/reactjs.svg"
+  },
+  {
+    "id": "6",
+    "title": "Express.js",
+    "img_url": "./images/icons/express.svg"
+  },
+  {
+    "id": "7",
+    "title": "Redux",
+    "img_url": "./images/icons/redux.svg"
+  },
+  {
+    "id": "8",
+    "title": "MongoDB",
+    "img_url": "./images/icons/mongodb.svg"
+  },
+  {
+    "id": "9",
+    "title": "TailwindCSS",
+    "img_url": "./images/icons/tailwind.svg"
+  },
+  {
+    "id": "10",
+    "title": "Bootstrap",
+    "img_url": "./images/icons/bootstrap.svg"
+  },
+  {
+    "id": "11",
+    "title": "SASS",
+    "img_url": "./images/icons/sass.svg"
+  },
+  {
+    "id": "12",
+    "title": "Progressive Web Apps",
+    "img_url": "./images/icons/pwa.svg"
+  }
+]

@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { ThemeContext } from "../../App";
-
+import data from "../../data/skills.json";
 import "./styles.scss";
 
 export default function Skills() {
@@ -11,14 +11,12 @@ export default function Skills() {
       <h2>Skills</h2>
       <hr />
       <div className="boxes">
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
-        <div className="box"></div>
+        {data.map((skill) => (
+          <div className="box" key={skill.id}>
+            <img src={skill.img_url} alt="" />
+            <span className="skillname">{skill.title}</span>
+          </div>
+        ))}
       </div>
     </div>
   );

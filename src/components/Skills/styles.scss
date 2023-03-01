@@ -10,10 +10,23 @@
         display: flex;
         flex-wrap: wrap;
         .box {
-            width: 105px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: auto;
+            height: auto;
             margin: 2px;
-            height: 40px;
-            background-color: #e4e4e4;
+            background-color: #fafafa;
+            border-radius: 3px;
+            padding: 5px;
+            img {
+                width: 40px;
+            }
+            .skillname {
+                font-size: 16px;
+                font-weight: 600;
+                margin: 5px
+            }
         }
     }
   }
@@ -27,4 +40,7 @@
       transition: 0.2s;
       color: #fafafa;
       background-color: #090909;
+      .box {
+        background-color: #3b3b3b;
+      }
   }

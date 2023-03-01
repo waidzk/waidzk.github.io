@@ -3,21 +3,21 @@
     "id": "1",
     "title": "Kosanjay",
     "isView": true,
-    "img_url": "./images/kosanjay.jpg",
+    "img_url": "./images/projects/kosanjay.jpg",
     "url": "https://kosanjay.vercel.app"
   },
   {
     "id": "2",
     "title": "Nongski",
     "isView": true,
-    "img_url": "./images/nongski.jpg",
+    "img_url": "./images/projects/nongski.jpg",
     "url": "https://nongski.com"
   },
   {
     "id": "3",
     "title": "TheTimeBox",
     "isView": true,
-    "img_url": "./images/thetimebox.jpg",
+    "img_url": "./images/projects/thetimebox.jpg",
     "url": "https://thetimebox.vercel.app"
   }
 ]
