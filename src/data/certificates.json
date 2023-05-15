@@ -1,58 +1,66 @@
 [
-        {
-            "id": "bwacourse1",
-            "support" : "Buildwithangga",
-            "title" : "Fullstack Javascript Developer",
-            "isView" : true,
-            "img_url" : "./images/certificates/bwa_fullstack_js.jpg",
-            "url" : "https://buildwithangga.com/talent/waidzk30"
-        },
-        {
-            "id": "dicodingfrontendclass4",
-            "support" : "Dicoding",
-            "title" : "Menjadi Front-End Web Developer Expert",
-            "isView" : true,
-            "img_url" : "./images/certificates/dicoding_4.jpg",
-            "url" : "https://www.dicoding.com/certificates/NVP71KNDWPR0"
-        },
-        {
-            "id": "dicodingdevelopercoaching1",
-            "support" : "Dicoding",
-            "title" : "Dicoding Developer Coaching #66 : Back end | Belajar Konsep Pemrograman Berorientasi Objek di Javascript",
-            "isView" : true,
-            "img_url" : "./images/certificates/dicoding_developer_coaching_1.jpg",
-            "url" : "https://drive.google.com/file/d/13Uh0gcTERyPgEDOKBwCi18ks6NPxnZi-/view?usp=share_link"
-        },
-        {
-            "id": "bwaonedayclass1",
-            "support" : "Buildwithangga",
-            "title" : "One Day Class : Build Responsive Website from UI Design",
-            "isView" : true,
-            "img_url" : "./images/certificates/bwa_responsive.png",
-            "url" : "https://drive.google.com/file/d/13Zajep4DQySyqJTbzeJq5iW10mIimKxn/view?usp=share_link"
-        },
-        {
-            "id": "dicodingfrontendclass3",
-            "support" : "Dicoding",
-            "title" : "Membangun Progressive Web Apps",
-            "isView" : true,
-            "img_url" : "./images/certificates/dicoding_3.jpg",
-            "url" : "https://www.dicoding.com/certificates/G1OP8G4W1PQK"
-        },
-        {
-            "id": "dicodingfrontendclass2",
-            "support" : "Dicoding",
-            "title" : "Belajar Fundamental Front-End Web Development",
-            "isView" : true,
-            "img_url" : "./images/certificates/dicoding_2.jpg",
-            "url" : "https://www.dicoding.com/certificates/Y6RPNMY18Z2M"
-        },
-        {
-            "id": "dicodingfrontendclass1",
-            "support" : "Dicoding",
-            "title" : "Belajar Dasar Pemrograman Web",
-            "isView" : true,
-            "img_url" : "./images/certificates/dicoding_1.jpg",
-            "url" : "https://www.dicoding.com/certificates/QNVP7M4QGXR0"
-        }
+  {
+    "id": "dicodingproyekdasar",
+    "support": "Dicoding",
+    "title": "Belajar Dasar Manajemen Proyek",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_proyek_dasar.jpg",
+    "url": "https://www.dicoding.com/certificates/JLX1LQQ76X72"
+  },
+  {
+    "id": "bwacourse1",
+    "support": "Buildwithangga",
+    "title": "Fullstack Javascript Developer",
+    "isView": true,
+    "img_url": "./images/certificates/bwa_fullstack_js.jpg",
+    "url": "https://buildwithangga.com/talent/waidzk30"
+  },
+  {
+    "id": "dicodingfrontendclass4",
+    "support": "Dicoding",
+    "title": "Menjadi Front-End Web Developer Expert",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_4.jpg",
+    "url": "https://www.dicoding.com/certificates/NVP71KNDWPR0"
+  },
+  {
+    "id": "dicodingdevelopercoaching1",
+    "support": "Dicoding",
+    "title": "Dicoding Developer Coaching #66 : Back end | Belajar Konsep Pemrograman Berorientasi Objek di Javascript",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_developer_coaching_1.jpg",
+    "url": "https://drive.google.com/file/d/13Uh0gcTERyPgEDOKBwCi18ks6NPxnZi-/view?usp=share_link"
+  },
+  {
+    "id": "bwaonedayclass1",
+    "support": "Buildwithangga",
+    "title": "One Day Class : Build Responsive Website from UI Design",
+    "isView": true,
+    "img_url": "./images/certificates/bwa_responsive.png",
+    "url": "https://drive.google.com/file/d/13Zajep4DQySyqJTbzeJq5iW10mIimKxn/view?usp=share_link"
+  },
+  {
+    "id": "dicodingfrontendclass3",
+    "support": "Dicoding",
+    "title": "Membangun Progressive Web Apps",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_3.jpg",
+    "url": "https://www.dicoding.com/certificates/G1OP8G4W1PQK"
+  },
+  {
+    "id": "dicodingfrontendclass2",
+    "support": "Dicoding",
+    "title": "Belajar Fundamental Front-End Web Development",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_2.jpg",
+    "url": "https://www.dicoding.com/certificates/Y6RPNMY18Z2M"
+  },
+  {
+    "id": "dicodingfrontendclass1",
+    "support": "Dicoding",
+    "title": "Belajar Dasar Pemrograman Web",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_1.jpg",
+    "url": "https://www.dicoding.com/certificates/QNVP7M4QGXR0"
+  }
 ]

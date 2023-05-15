@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <div className={`Footer ${theme}`}>
-      <p>25/02/2023</p>
+      <p>Updated at 16/05/2023</p>
     </div>
   );
 }

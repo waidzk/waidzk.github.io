@@ -11,22 +11,27 @@
   },
   {
     "id": "3",
-    "title": "Javascript",
+    "title": "JavaScript",
     "img_url": "./images/icons/javascript.svg"
   },
   {
     "id": "4",
-    "title": "Node.js",
+    "title": "Node JS",
     "img_url": "./images/icons/nodejs.svg"
   },
   {
     "id": "5",
-    "title": "React.js",
+    "title": "React JS",
     "img_url": "./images/icons/reactjs.svg"
   },
   {
+    "id": "13",
+    "title": "Next JS",
+    "img_url": "./images/icons/nextjs.svg"
+  },
+  {
     "id": "6",
-    "title": "Express.js",
+    "title": "Express JS",
     "img_url": "./images/icons/express.svg"
   },
   {
