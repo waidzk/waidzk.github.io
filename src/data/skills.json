@@ -40,6 +40,11 @@
     "img_url": "./images/icons/redux.svg"
   },
   {
+    "id": "13",
+    "title": "Jest",
+    "img_url": "./images/icons/jest.svg"
+  },
+  {
     "id": "8",
     "title": "MongoDB",
     "img_url": "./images/icons/mongodb.svg"

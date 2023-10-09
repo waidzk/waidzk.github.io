@@ -9,6 +9,7 @@ import Theme from "./components/Theme";
 import Braindump from "./components/Braindump";
 import Skills from "./components/Skills";
 import Academy from "./components/Academy";
+import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 
 export const ThemeContext = React.createContext();
@@ -27,6 +28,7 @@ function App() {
         <Projects />
         <Certificates />
         <Skills />
+        <Experience />
         <Academy />
         <Braindump />
         </div>

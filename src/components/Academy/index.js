@@ -11,6 +11,11 @@ export default function Academy() {
       <h2>Academy</h2>
       <hr />
       <div className="item">
+        <h3>Dicoding Academy | 2020 - 2021</h3>
+        <p>Front End Web Development</p>
+        <p></p>
+      </div>
+      <div className="item">
         <h3>SMKN 2 Cikarang Barat | 2016 - 2020</h3>
         <p>Teknik Komputer dan Jaringan</p>
         <p>85.39</p>

@@ -1,5 +1,13 @@
 [
   {
+    "id": "dicodingjavascriptdasar",
+    "support": "Dicoding",
+    "title": "Belajar Dasar Pemrograman JavaScript",
+    "isView": true,
+    "img_url": "./images/certificates/dicoding_javascript_dasar.jpg",
+    "url": "https://www.dicoding.com/certificates/1OP81WQ81ZQK"
+  },
+  {
     "id": "dicodingproyekdasar",
     "support": "Dicoding",
     "title": "Belajar Dasar Manajemen Proyek",
